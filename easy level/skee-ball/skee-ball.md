@@ -15,6 +15,7 @@ A string that say 'Buy it!' if you will have enough tickets, or a string that sa
 **Sample Input**
 
 500
+
 40
 
 **Sample Output**
